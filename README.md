@@ -12,7 +12,7 @@ Developed by: Sanvi
 - [x] Delete a content creator from the database
 
 ## Walkthrough Video
-![Application Walkthrough](./walkthrough.gif)
+![Application Walkthrough](walkthrough.gif)
 
 # React + Vite
 
